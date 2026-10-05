@@ -6,13 +6,13 @@ The project uses the modern **MediaPipe Tasks Face Landmarker API** rather than 
 
 ## Features
 
-- 👁️ Move the mouse using eye gaze
-- 😉 Blink to left-click
-- 🎤 Voice commands for mouse/keyboard actions
-- 🗣️ Voice dictation into the active application
-- 🍎 macOS Command shortcuts, with Ctrl on Windows/Linux
-- 🛑 Press `Q`, say `exit`, or press `Ctrl+C` to stop
-- 🧩 Modular Python structure suitable for learning and interviews
+- Move the mouse using eye gaze
+- Blink to left-click
+- Voice commands for mouse/keyboard actions
+- Voice dictation into the active application
+- macOS Command shortcuts, with Ctrl on Windows/Linux
+- Press `Q`, say `exit`, or press `Ctrl+C` to stop
+- Modular Python structure suitable for learning and interviews
 
 ## Architecture
 
